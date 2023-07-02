@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Francisco O. ✌️
+
+- I'm a Software Engineer 💻.
+- I'm currently studying React-Native with TypeScript 📖.
 
 <!--
 **P4CM4N890/P4CM4N890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
