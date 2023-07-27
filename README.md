@@ -1,6 +1,6 @@
 ### Hello, I'm Francisco O. ✌️🦆
 
-- 💻 I'm a Software Engineer.
+- 💻 I'm a Front-End Developer.
 - 📖 I'm currently studying React-Native with TypeScript.
 
 <h3 align="left">Languages and Tools:</h3>
